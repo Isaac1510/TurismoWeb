@@ -15,3 +15,35 @@
     border-color: rgb(1, 66, 146) !important;
     font-weight: bold !important;
 }
+.nav-menu:hover{
+    background-color: rgb(1, 66, 146) !important;              
+}
+
+.img-car{
+    max-height: 35em !important;
+}
+
+.carousel-caption{
+    background-color: #909db07e !important;
+    width: 70% !important;
+    color: black !important;
+
+}
+.divisao{
+    background-color:  rgb(1, 66, 146) !important;
+    text-align: center !important;
+    color: white !important;
+    padding: 5% !important;
+}
+
+.sec-pacotes{
+    margin-left: 5% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin: 0.5% !important;
+}
+
+.card{
+    margin-left: 2em !important;
+    padding: 1em !important;
+}
