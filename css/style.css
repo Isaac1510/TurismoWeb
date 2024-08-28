@@ -47,3 +47,42 @@
     margin-left: 2em !important;
     padding: 1em !important;
 }
+footer{
+   background-color: rgb(1, 66, 146) !important;
+   padding: 1em !important;
+   color: white !important;
+   text-align: center !important;
+}
+.contato-formulario{
+    background-color: rgb(189, 225, 225);
+    margin-left: 1% !important;
+    border-radius: 2% !important;
+    border: 1px solid black !important;
+    margin: 0.5em !important;
+    box-shadow: 1px 1px 1px 1px black !important;
+}
+.button-enviar{
+    margin-top: 1em !important;
+    background-color: blue !important;
+    color: white !important;
+}
+.contato-redes{
+    border-radius: 2% !important;
+    flex: 1 !important;
+    margin: 0.5em !important;
+    border: 1px solid black !important;
+    background-color: rgb(189, 225, 225) !important;
+    margin-left: 1% !important;
+    box-shadow: 1px 1px 1px 1px black !important;
+}
+.whatsapp{
+    margin-left: 27% !important;
+    margin-right: 30% !important;
+    text-align: center !important;
+}
+.mapa{
+    margin-left: 15% !important;
+}
+.titulo-principal{
+    text-align: center !important;
+}
