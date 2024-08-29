@@ -20,13 +20,14 @@
 }
 
 .img-car{
-    max-height: 35em !important;
+    max-height: 50em !important;
 }
 
 .carousel-caption{
     background-color: #909db07e !important;
     width: 70% !important;
     color: black !important;
+    font-size: 130% !important;
 
 }
 .divisao{
@@ -45,6 +46,7 @@
 
 .card{
     margin-left: 2em !important;
+    margin-right: 2em !important;
     padding: 1em !important;
 }
 footer{
@@ -55,10 +57,10 @@ footer{
 }
 .contato-formulario{
     background-color: rgb(189, 225, 225);
-    margin-left: 1% !important;
+    margin-right: 10% !important;
     border-radius: 2% !important;
     border: 1px solid black !important;
-    margin: 0.5em !important;
+    margin: 0.5% !important;
     box-shadow: 1px 1px 1px 1px black !important;
 }
 .button-enviar{
@@ -74,15 +76,30 @@ footer{
     background-color: rgb(189, 225, 225) !important;
     margin-left: 1% !important;
     box-shadow: 1px 1px 1px 1px black !important;
+    padding: 1em !important;
+    text-align: center !important;
+    justify-content: center !important;
 }
 .whatsapp{
     margin-left: 27% !important;
     margin-right: 30% !important;
     text-align: center !important;
+    justify-content: center !important;
 }
 .mapa{
     margin-left: 15% !important;
 }
 .titulo-principal{
     text-align: center !important;
+}
+.sec-contatos{
+    margin-left: 5% !important;
+    margin-right: 5% !important;
+}
+
+@media (min-width: 200px) and (max-width: 768px){
+    iframe{
+        width: 90% !important;
+      
+    }
 }
